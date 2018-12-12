@@ -14,12 +14,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SimplePdfApplication implements CommandLineRunner {
+public class PNGtoPDFApplication implements CommandLineRunner {
 	
-	private final Logger logger = LoggerFactory.getLogger(SimplePdfApplication.class);
+	private final Logger logger = LoggerFactory.getLogger(PNGtoPDFApplication.class);
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimplePdfApplication.class, args);
+		SpringApplication.run(PNGtoPDFApplication.class, args);
 	}
 
 	@Override

@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SimplePdfApplicationTests {
+public class PNGtoPDFApplicationTests {
 
 	@Test
 	public void contextLoads() {

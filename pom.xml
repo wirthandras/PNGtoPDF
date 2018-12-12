@@ -10,11 +10,11 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.wirthandras</groupId>
-	<artifactId>SimplePDF</artifactId>
+	<artifactId>PNGtoPDF</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>SimplePDF</name>
-	<description>Demo project for Spring Boot</description>
+	<name>PNGtoPDF</name>
+	<description>This command line application converts multiple PNG files to one PDF file</description>
 
 	<properties>
 		<java.version>1.8</java.version>
